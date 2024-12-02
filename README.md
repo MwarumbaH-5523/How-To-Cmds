@@ -20,6 +20,7 @@ Pass Password Manager Set-up with Gpg
     - cmd pass
       - pass insert Site/example.com (manually enter the password) or
       - pass generate Site/example2.com *n characters*(auto generate the password)
+      - passmenu (copied site passwd to the terminal)
 
     
 
