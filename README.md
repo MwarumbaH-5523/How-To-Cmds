@@ -11,7 +11,9 @@ Pass Password Manager Set-up with Gpg
     - gpg --full-generate-key (apply defaults options & set key expiration to 0 - not expiring)
     - cd .gnupg
     -touch gpg-agent.conf
-    
+    edit - vim gpg-agent.conf
+           - pinentry-program /run/current-system/sw/bin/pinentry-qt (:wq to exit vim)
+    -gpgconf --reload gpg-agent       
     
     
 
