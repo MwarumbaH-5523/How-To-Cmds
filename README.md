@@ -16,6 +16,10 @@ Pass Password Manager Set-up with Gpg
       - pass example.com (displays the passwords for the site)
       - passmenu (copied site passwd to the terminal)
 
+   Creating Pass in Git
+   cmd : pass git init (creates password store for git dir)
+     - cd .password-store/ (enables one to run git cmds)
+     - git.log (interacts with gits cmds)
     
 
   
