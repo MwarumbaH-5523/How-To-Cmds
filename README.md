@@ -22,6 +22,7 @@ Pass Password Manager Set-up with Gpg
      - git.log (interacts with gits cmds this commits the passwords to github)
   
  Docker Desktop Installation and set-up on Linux Machine.
+  - Documentation link : https://docs.docker.com/desktop/setup/install/linux/
    
   
 
