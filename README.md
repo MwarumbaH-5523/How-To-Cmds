@@ -21,7 +21,8 @@ Pass Password Manager Set-up with Gpg
      - cd .password-store/ (enables one to run git cmds)
      - git.log (interacts with gits cmds this commits the passwords to github)
   
-  Passbolt Server : Setting up and Installation on Premise Device Steps.
+ Docker Desktop Installation and set-up on Linux Machine.
+   
   
 
   
