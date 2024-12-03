@@ -16,10 +16,12 @@ Pass Password Manager Set-up with Gpg
       - pass example.com (displays the passwords for the site)
       - passmenu (copied site passwd to the terminal)
 
-   Creating Pass in Git
+   Creating Pass in Git (link : https://youtu.be/7t5M4FXqs9E?si=afTioaC7DiDL_Uaz)
    cmd : pass git init (creates password store for git dir)
      - cd .password-store/ (enables one to run git cmds)
-     - git.log (interacts with gits cmds)
-    
+     - git.log (interacts with gits cmds this commits the passwords to github)
+  
+  Passbolt Server : Setting up and Installation on Premise Device Steps.
+  
 
   
