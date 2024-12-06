@@ -7,7 +7,7 @@
      ![cmd_winver](https://github.com/user-attachments/assets/7d1ff376-e382-4098-a689-2bf3db79a2d3)
 
 	
- - List item
+   Results : version 1809 , OS Build Number 17763.
 
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMTcxNDM1MDA4MywxOTYwODg0MDkwLC0yMD
