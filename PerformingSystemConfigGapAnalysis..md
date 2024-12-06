@@ -1,5 +1,8 @@
 > ## Performing System Configuration Gap Analysis
 >
+ Gap analysis is widely used in business strategy, project management, and process improvement to prioritize actions and allocate resources effectively.
+ It identifies gaps or discrepancies between "what is" (current performance) and "what should be" (target performance), helping to outline the necessary steps to bridge the difference.
+
 
 Determine the build number for windows server in this example am using Windows server 2019.
 
@@ -51,6 +54,8 @@ Determine the build number for windows server in this example am using Windows s
  Here one can compare the baseline requirements verses the currently set configured policies
 
   ![compareandview](https://github.com/user-attachments/assets/297aaa43-8bb2-4cdc-a657-7aad742cb619)
+
+  
 
 
 
