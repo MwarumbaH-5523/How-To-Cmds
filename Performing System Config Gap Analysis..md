@@ -4,12 +4,13 @@
 
  - **Step 1**: *Select Search magnifing icon from the taskbar*
 		  Type : ***winver***
+		  
      ![cmd_winver](https://github.com/user-attachments/assets/7d1ff376-e382-4098-a689-2bf3db79a2d3)
 
 	
    Results : version 1809 , OS Build Number 17763.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxNDM1MDA4MywxOTYwODg0MDkwLC0yMD
-M1MTA1Mjc2XX0=
+eyJoaXN0b3J5IjpbMTQ1NjYxMjMwNiwxNzE0MzUwMDgzLDE5Nj
+A4ODQwOTAsLTIwMzUxMDUyNzZdfQ==
 -->
