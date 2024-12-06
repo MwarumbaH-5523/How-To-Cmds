@@ -30,7 +30,8 @@
 
   Open the Policy Analayer application with this command.
   
-  		c: \LABFILES\PolicyAnalyzer\Policyanalyzer.exe
+  		c: \LABFILES\PolicyAnalyzer\PolicyAnalyzer_40\PolicyAnalyzer.exe
+  
 
   
 
