@@ -41,7 +41,9 @@
   Select Documentation fold found inside the Windows 10 Version 1809 and Windows Server 2019 Security Baseline folder.
   Perform a View / Compare of *MSFT-Win10-v1809-RS5-WS2019-Final* , mark the checkbox , then select *View / Compare*
 
-  
+  ![policyviewer](https://github.com/user-attachments/assets/b80de68b-b506-422d-93cc-b00b256259d0)
+
+
 
 
 
