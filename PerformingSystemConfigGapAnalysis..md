@@ -1,6 +1,7 @@
+> ## Performing System Configuration Gap Analysis
+>
 
-> ## Determine the build number for windows server in this example am using Windows server 2019.
-> 
+Determine the build number for windows server in this example am using Windows server 2019.
 
  - **Step 1**: *Select Search magnifing icon from the taskbar*
 		  Type : ***winver***
