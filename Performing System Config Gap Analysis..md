@@ -7,6 +7,8 @@
 
  - **Step 1**: *Select Search magnifing icon from the taskbar*
 		  Type : ***winver***
+     ![cmd_winver](https://github.com/user-attachments/assets/7d1ff376-e382-4098-a689-2bf3db79a2d3)
+
 	
  - List item
 
