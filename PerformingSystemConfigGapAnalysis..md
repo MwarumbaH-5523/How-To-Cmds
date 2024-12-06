@@ -33,7 +33,16 @@
   		c: \LABFILES\PolicyAnalyzer\PolicyAnalyzer_40\PolicyAnalyzer.exe
   
 
+  ![policyanalyzer](https://github.com/user-attachments/assets/59426097-87ff-454b-86ca-367bc4925f45)
+
+  At the bottom of the Policy Analyzer window, *select the Policy Rule sets in* field.
+
+
+  Select Documentation fold found inside the Windows 10 Version 1809 and Windows Server 2019 Security Baseline folder.
+  Perform a View / Compare of *MSFT-Win10-v1809-RS5-WS2019-Final* , mark the checkbox , then select *View / Compare*
+
   
+
 
 
   
