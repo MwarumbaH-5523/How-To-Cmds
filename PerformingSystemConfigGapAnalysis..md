@@ -19,6 +19,24 @@
    ![copied_mylabfiles_tocdrive](https://github.com/user-attachments/assets/0c94e807-4038-4d51-9e64-1bc26babc908)
 
 
+- **Step 3** : *unzip the two folder to be used in this lab*
+  
+	  	cmds : Expand-Archive - Path PolicyAnalyzer.zip
+	               Expand-Archive -Path Windows 10 Version 1809 and Windows Server 2019 Security Baseline.zip
+
+
+  ![unzipping_files](https://github.com/user-attachments/assets/99172f91-75e3-4e99-95b9-a4671fa5c088)
+
+
+  Open the Policy Analayer application with this command.
+  
+  		c: \LABFILES\PolicyAnalyzer\Policyanalyzer.exe
+
+  
+
+
+  
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTE1NzY1ODg3NDZdfQ==
 -->
