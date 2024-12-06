@@ -28,6 +28,13 @@
   ![unzipping_files](https://github.com/user-attachments/assets/99172f91-75e3-4e99-95b9-a4671fa5c088)
 
 
+  Open the Policy Analayer application with this command.
+  
+  		c: \LABFILES\PolicyAnalyzer\Policyanalyzer.exe
+
+  
+
+
   
 
 <!--stackedit_data:
