@@ -1,7 +1,4 @@
 
-
-
-> Written with [StackEdit](https://stackedit.io/).
 > ## Determine the build number for windows server in this example am using Windows server 2019.
 > 
 
